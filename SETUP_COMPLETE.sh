@@ -1,0 +1,21 @@
+
+#!/bin/bash
+
+echo "🎉 ProForma App Setup Complete!"
+echo ""
+echo "Next steps:"
+echo "1. Update GITHUB_USERNAME in setup.js with your GitHub username"
+echo "2. Create a new repository on GitHub.com"
+echo "3. Run these commands:"
+echo ""
+echo "   cd proforma-app"
+echo "   npm install"
+echo "   git remote add origin https://github.com/YOUR_USERNAME/proforma-app.git"
+echo "   git push -u origin main"
+echo ""
+echo "4. Start development:"
+echo "   npm start"
+echo ""
+echo "To work with Claude on a specific feature:"
+echo "   npm run update calculations"
+echo ""
